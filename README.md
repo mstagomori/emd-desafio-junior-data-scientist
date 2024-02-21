@@ -17,3 +17,4 @@ Os códigos em Python podem ser executados no Google Colab seguindo as etapas ab
    2.1. Efetue Login no Google, caso não esteja Logado
 3. Clique em Arquivo > Abrir Notebook > Upload > Selecione o arquivo analise_python.ipynb
 4. Clique em Ambiente de execução > Executar tudo
+5. Permitir que o Google Colab acesse suas credenciais

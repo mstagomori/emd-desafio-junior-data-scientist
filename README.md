@@ -18,3 +18,12 @@ Os códigos em Python podem ser executados no Google Colab seguindo as etapas ab
 3. Clique em Arquivo > Abrir Notebook > Upload > Selecione o arquivo analise_python.ipynb
 4. Clique em Ambiente de execução > Executar tudo
 5. Permitir que o Google Colab acesse suas credenciais
+
+### Visualização de dados
+
+Foi criado um relatório dinâmico no Looker Studio para visualização dos dados. Para acessá-lo, siga os passos abaixo.
+
+1. Acesse o relatório pelo link: https://lookerstudio.google.com/reporting/cf441bc4-dc0b-4bba-8368-08a4c705cd7c/page/MbErD
+2. Realize Login.
+   2.1. Para este desafio, o relatório foi compartilhado apenas com o endereço: escritoriodedados@gmail.com, portanto, peço que utilize esta conta para acessar o relatório.
+   2.2. Caso deseje acessar em outra conta, é possível solicitar o acesso.

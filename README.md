@@ -21,7 +21,7 @@ Os códigos em Python podem ser executados no Google Colab seguindo as etapas ab
 
 ### Visualização de dados
 
-Foi criado um relatório dinâmico no Looker Studio para visualização dos dados. Para acessá-lo, siga os passos abaixo.
+Foi criado um dashboard dinâmico no Looker Studio para visualização dos dados. Para acessá-lo, siga os passos abaixo.
 
 1. Acesse o relatório pelo link: https://lookerstudio.google.com/reporting/cf441bc4-dc0b-4bba-8368-08a4c705cd7c/page/MbErD
 2. Realize Login.

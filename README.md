@@ -2,6 +2,8 @@
 
 Os passos para executar os códigos e acessar a visualização dos dados são apresentados abaixo.
 
+Os arquivos das análises estão na pasta respostas.
+
 ## SQL
 
 Os códigos em SQL podem ser executados diretamente no BigQuery

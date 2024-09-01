@@ -1,0 +1,15 @@
+date,localName,name,countryCode,fixed,global,counties,launchYear,types,weekday
+2024-01-01,Confraternização Universal,New Year's Day,BR,False,True,,,['Public'],True
+2024-02-12,Carnaval,Carnival,BR,False,True,,,"['Bank', 'Optional']",True
+2024-02-13,Carnaval,Carnival,BR,False,True,,,"['Bank', 'Optional']",True
+2024-03-29,Sexta-feira Santa,Good Friday,BR,False,True,,,['Public'],True
+2024-03-31,Domingo de Páscoa,Easter Sunday,BR,False,True,,,['Public'],False
+2024-04-21,Dia de Tiradentes,Tiradentes,BR,False,True,,,['Public'],False
+2024-05-01,Dia do Trabalhador,Labour Day,BR,False,True,,,['Public'],True
+2024-05-30,Corpus Christi,Corpus Christi,BR,False,True,,,['Public'],True
+2024-09-07,Dia da Independência,Independence Day,BR,False,True,,,['Public'],False
+2024-10-12,Nossa Senhora Aparecida,Our Lady of Aparecida,BR,False,True,,,['Public'],False
+2024-11-02,Dia de Finados,All Souls' Day,BR,False,True,,,['Public'],False
+2024-11-15,Proclamação da República,Republic Proclamation Day,BR,False,True,,,['Public'],True
+2024-11-20,Dia da Consciência Negra,Black Awareness Day,BR,False,True,,,['Public'],True
+2024-12-25,Natal,Christmas Day,BR,False,True,,,['Public'],True

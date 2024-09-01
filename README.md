@@ -33,3 +33,10 @@ Os códigos em Python podem ser executados no Google Colab seguindo as etapas ab
 2. Efetue login com uma conta google (ambos os notebooks estão compartilhados com o email do Escritório de Dados, caso desejem acessar por outro email, basta solicitar o acesso)
 3. Clique em Ambiente de execução > Executar tudo
 4. Permitir que o Google Colab acesse suas credenciais
+
+
+## Visualização de Dados
+
+Os Dashboards criados podem ser acessados diretamente pelo Data Studio. Os dashboards já foram compartilhados com o escritoriodedados@gmail.com
+1. [Chamados 2023 - Iluminação pública](https://lookerstudio.google.com/u/0/reporting/cf441bc4-dc0b-4bba-8368-08a4c705cd7c/page/MbErD/edit)
+2. [Clima RJ 2024](https://lookerstudio.google.com/u/0/reporting/a3fda029-0729-46e0-9507-79ed5c98f350/page/MbErD/edit)
